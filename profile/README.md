@@ -1,12 +1,14 @@
 <div align=center>
 
 # 👋 Hello World! 👋
-**2024 동국대학교 정보통신공학전공 캡스톤디자인1**<br>
-# 👩🏻About Us👦🏻
+**2024 동국대학교 정보통신공학전공 캡스톤디자인1**
+
+## 👩🏻About Us👦🏻
 **TEAM PAWSITIVE**<br>
 정윤지 (정보통신공학전공 2020112097)<br>
 이동욱 (정보통신공학전공 2019113587)<br>
-안세림 (정보통신공학전공 2020112135)<br>
+안세림 (정보통신공학전공 2020112135)
+
 ## 👩🏻‍💻About Our Project
 **반려동물에 따른 자동 사료 급식 AIoT 애플리케이션 개발**<br>
 <div align=left>
@@ -16,6 +18,8 @@
 4. 라즈베리파이와 안드로이드와의 통신을 통한 자동 사료 급여 기능<br>
 5. 생성형AI를 이용한 챗봇 기능<br>
 6. 다이어리 기능을 이용한 일정 관리<br>
+
+<div align=center>
 ## 💻Used Tool
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 
