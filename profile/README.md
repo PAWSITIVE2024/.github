@@ -9,7 +9,7 @@
 이동욱 (정보통신공학전공 2019113587)<br>
 안세림 (정보통신공학전공 2020112135)
 
-## 👩🏻‍💻About Our Project
+## 👩🏻‍💻About Our Project🧑🏻‍💻
 **반려동물에 따른 자동 사료 급식 AIoT 애플리케이션 개발**<br>
 <div align=left>
 1. 반려동물의 식이 알레르기에 따른 사료 추천 및 비교<br>
@@ -21,7 +21,7 @@
 
 <div align=center>
 
-## 💻 Used Tool
+## 💻Used Tools🛠️
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)"/><br>
