@@ -20,6 +20,9 @@
 6. 다이어리 기능을 이용한 일정 관리<br>
 
 <div align=center>
-## 💻Used Tool
+## Used Tool
+
+
+## 💻 Used Tool
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 
