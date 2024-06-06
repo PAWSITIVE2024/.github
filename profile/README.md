@@ -12,6 +12,7 @@
 ## 👩🏻‍💻About Our Project🧑🏻‍💻
 **반려동물 알레르기에 따른 자동 사료 급여 AIoT 애플리케이션 개발**<br>
 <div align=left>
+  
 1️⃣ 반려동물의 식이 알레르기에 따른 사료 검색 및 추천 기능<br>
 2️⃣ 사료 비교 및 상세 정보 제공 기능<br>
 3️⃣ 반려동물의 활동 수준과 개인 체질에 따른 사료량 자동 계산 기능<br>
@@ -22,6 +23,7 @@
 
 
 <div align=center>
+  
 ## 💻Used Tools🛠️
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
