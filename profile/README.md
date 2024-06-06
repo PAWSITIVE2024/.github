@@ -1,3 +1,5 @@
+<div align=left>
+  
 # 👋 Hello World! 👋
 **2024 동국대학교 정보통신공학전공 캡스톤디자인1**
 
