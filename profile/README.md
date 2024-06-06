@@ -1,4 +1,4 @@
-<div align=left>
+<div align=center>
   
 # 👋 Hello World! 👋
 **2024 동국대학교 정보통신공학전공 캡스톤디자인1**
@@ -19,6 +19,7 @@
 6️⃣ 생성형AI를 이용한 챗봇 기능<br>
 7️⃣ 다이어리 기능을 이용한 일정 관리<br>
 
+<div align=center>
 ## 💻Used Tools🛠️
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
